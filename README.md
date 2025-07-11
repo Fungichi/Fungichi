@@ -1,13 +1,23 @@
-#Whoami
-I am a hobbyist dev that doesn't know what field in IT to pick.
-Therefore i decided to be a noob in every field. (Not really every field)
+# Whoami
 
-##No Jack of all trades, but a master of none
-### Webdevelopment
-- `[A weird insect restaurant](https://github.com/Fungichi/DBW-django)`
-This website was made using the django framework, it contains a webpage for a fictive restaurant called `The Blue Worm`.
-### Other
-- `[Discord bot](https://github.com/Fungichi/Discordbot)`
-  With this discord bot you can give or take someones 'aura'.You have 500 tokens a day which means that you can give or take a max of 500 aura per day.
-- `[Noyevon](https://github.com/Fungichi/Noyevon)`
-  I made this script to stop my school from spying my computer during classes (Spyware: Veyon). You can check its readme for more details.
+I am a hobbyist dev who doesn't know which IT field to pick.  
+So I decided to be a noob in every field. (Well... not *every* field.)
+
+---
+
+## No Jack of All Trades, but a Master of None
+
+### Web Development
+
+- [A weird insect restaurant](https://github.com/Fungichi/DBW-django)  
+  This website was made using the Django framework. It contains a webpage for a fictional restaurant called **The Blue Worm**.
+
+### Other Projects
+
+- [Discord Bot](https://github.com/Fungichi/Discordbot)  
+  A Discord bot that lets users give or take each other's *aura*.  
+  You get 500 tokens per day, which limits aura transfers to a max of 500 daily.
+
+- [Noyevon](https://github.com/Fungichi/Noyevon)  
+  A script I wrote to stop my school from spying on my computer during classes (spyware used: Veyon).  
+  Check its README for more details.
