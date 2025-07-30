@@ -8,7 +8,6 @@ I made 3 main categories:
  - My own ...
  - TheRetroWay™
 ---
-| First Header | Second Header | | ------------- | ------------- | | Content Cell | Content Cell | | Content Cell | Content Cell |
 ## No Jack of All Trades, but a Master of None
 
 ### Web Development
