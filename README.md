@@ -3,8 +3,12 @@
 I am a hobbyist dev who doesn't know which IT field to pick.  
 So I decided to be a noob in every field. (Well... not *every* field.)
 
+I made 3 main categories:
+ - No Jack of All Trades, but also a Master of None
+ - My own ...
+ - TheRetroWay™
 ---
-
+| First Header | Second Header | | ------------- | ------------- | | Content Cell | Content Cell | | Content Cell | Content Cell |
 ## No Jack of All Trades, but a Master of None
 
 ### Web Development
