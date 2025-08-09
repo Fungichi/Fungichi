@@ -1,3 +1,8 @@
+<div id="header" align="center">
+ <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0fd9995d0388560aaac341c227426551825121a5_image.png"/>
+</div>
+# <h1 align="center">Wassup! </h1>
+
 # Whoami
 
 I am a hobbyist dev who doesn't know which IT field to pick.  
