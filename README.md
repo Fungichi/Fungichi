@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" width="500" height="250">
  <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0fd9995d0388560aaac341c227426551825121a5_image.png"/>
 </div>
 # <h1 align="center">Wassup! </h1>
