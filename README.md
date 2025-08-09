@@ -1,7 +1,7 @@
 <h1 align="center">Wassup! </h1>
 
 <div id="header" align="center">
- <img src="https://hackclub.slack.com/archives/C016DEDUL87/p1754762458475799?thread_ts=1754762452.654429&cid=C016DEDUL87"/>
+ <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/1a8b0fddfbde69289fe06b3a17e8a43274094a79_ontwerp_zonder_titel.png"/>
 </div>
 
 
