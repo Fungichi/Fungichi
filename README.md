@@ -11,8 +11,3 @@ I made 3 main categories:
  - [TheLeftOvers™ ](TheLeftOvers.md) 
 > The projects that do not belong in the previous categories
 ---
-
-| TheRetroWay™  | My own ...    |  TheLeftOvers™ |
-| ------------- | ------------- |------------- |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
