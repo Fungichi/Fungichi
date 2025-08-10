@@ -15,7 +15,9 @@ So I decided to be a noob in every field. (Well... not *every* field.)
  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />
- <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" />  
+ <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" /> 
+ <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" />
+ <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" />
 </div>  
 
 >[!NOTE]
