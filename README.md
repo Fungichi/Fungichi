@@ -9,6 +9,7 @@
 
 I am a hobbyist dev who doesn't know which IT field to pick.  
 So I decided to be a noob in every field. (Well... not *every* field.)
+Check out my [website](https://portfolio-os-beta.vercel.app/)
 ## Languages and Tools: 
 <div>
  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
@@ -22,6 +23,7 @@ So I decided to be a noob in every field. (Well... not *every* field.)
 
 >[!NOTE]
 > I just started learning Rust
+>Check out my progress [here](https://www.rustfinity.com/profile/Fungichi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fungichi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 # Projects
